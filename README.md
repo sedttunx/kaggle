@@ -41,16 +41,10 @@ Evaluation using cross-validation and public leaderboard submission
 ✅ Requirements
 To run this notebook, install the required libraries:
 
-bash
-Kopyala
-Düzenle
 pip install -r requirements.txt
 Or manually install:
-
-bash
-Kopyala
-Düzenle
 pip install pandas numpy scikit-learn lightgbm xgboost catboost optuna matplotlib seaborn
+
 🏆 Performance
 Final model used: [Mention your best model or ensemble method here]
 
