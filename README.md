@@ -41,7 +41,7 @@ Evaluation using cross-validation and public leaderboard submission
 ✅ Requirements
 To run this notebook, install the required libraries:
 
-pip install -r requirements.txt
+pip install -r kaggle_requirements.txt
 Or manually install:
 pip install pandas numpy scikit-learn lightgbm xgboost catboost optuna matplotlib seaborn
 
